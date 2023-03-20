@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from studbehavior
+LIMIT 0, 1000
+"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<row>
+		<field name="BehaviorDate">2006-05-09</field>
+		<field name="StudId">3</field>
+		<field name="BehavId">3</field>
+		<field name="ClassPasss">67676</field>
+	</row>
+
+	<row>
+		<field name="BehaviorDate">2006-09-01</field>
+		<field name="StudId">3</field>
+		<field name="BehavId">3</field>
+		<field name="ClassPasss">67676</field>
+	</row>
+</resultset>
